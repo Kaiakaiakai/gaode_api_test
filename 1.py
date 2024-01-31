@@ -4,7 +4,7 @@ import numpy as np
 from test import transform, regeocode
 # print(regeocode(117.125531,36.19890319))
 
-# df = pd.read_excel('stage_info2.xlsx')
+df = pd.read_excel('stage_info2.xlsx')
 #
 # lon_adjusted = []
 # lat_adjusted = []
